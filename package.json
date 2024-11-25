@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@headlessui/react": "^2.2.0",
     "@lottiefiles/react-lottie-player": "^3.5.4",
     "axios": "^1.7.7",
     "cra-template": "1.2.0",
